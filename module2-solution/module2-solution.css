@@ -16,14 +16,14 @@ p{
   color:black;
   text-size-adjust:25% ;
   font-weight:bold;
-  padding:10px;
+  
  
 }
 #p1{width:90%;
   margin-left:auto;
   margin-right:auto;
-  padding: 30px 10px 20px 10px;
-  box-sizing: border-box;
+  padding: 30px 10px 19px 10px;
+  
 }
 #p2{
   
@@ -31,7 +31,7 @@ p{
   margin-left:auto;
   margin-right:auto;
   padding:30px 10px 0px 10px;    
-  box-sizing: border-box;
+  
 }
   
 
@@ -40,8 +40,6 @@ p{
   width:80%;
   margin-left:auto;
   margin-right:auto;
-  
-  
   padding: 30px 10px 0px 10px;    
   
 }
@@ -160,9 +158,12 @@ section {
 @media (max-width: 767px) {
   .smaller1,.smaller2 , .smaller3
   {
-    margin-right: 20px;
-    margin-left: 20px;
+    margin-right: auto;
+    margin-left: auto;
     margin-bottom: 20px;
+    margin-top:20px;
+    box-sizing: border-box;
+   
     border: 1px solid black;
  
   }
