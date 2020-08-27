@@ -47,10 +47,10 @@ p{
 
 
 section {
-  
+  width:150px;
   background-color: aqua;
   margin-top:20px;
-  box-sizing: border-box;
+  
 }
 
 #S1{ 
@@ -173,3 +173,9 @@ section {
       margin-left:20px;
     }
   }
+ 
+  /* @media (min-width: 768px) and (max-width: 991px){
+    #S1,#S2,#S3{
+      box-sizing: border-box;
+    }
+  } */
