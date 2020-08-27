@@ -22,8 +22,6 @@ p{
 #p1{width:90%;
   margin-left:auto;
   margin-right:auto;
-  margin-bottom: auto;
-  margin-top: auto;
   padding: 30px 10px 20px 10px;
   box-sizing: border-box;
 }
@@ -32,8 +30,6 @@ p{
   width:80%;
   margin-left:auto;
   margin-right:auto;
-  margin-bottom: auto;
-  margin-top: auto;
   padding:30px 10px 0px 10px;    
   box-sizing: border-box;
 }
@@ -44,8 +40,8 @@ p{
   width:80%;
   margin-left:auto;
   margin-right:auto;
-  margin-bottom: auto;
-  margin-top: auto;
+  
+  
   padding: 30px 10px 0px 10px;    
   
 }
