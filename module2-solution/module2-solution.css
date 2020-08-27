@@ -50,8 +50,6 @@ p{
 section {
   width:150px;
   background-color: aqua;
-  margin-top:20px;
-  padding:20px;
   
 }
 
@@ -190,8 +188,6 @@ section {
     #p1,#p2,#p3{
       padding: 0px;
       width:80%;
-      height:50%;
-  
       margin-bottom:10px;
 
     }
