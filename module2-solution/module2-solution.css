@@ -26,30 +26,33 @@ p{
   margin-left:auto;
   margin-right:auto;
   padding: 30px 10px 20px 10px;
-
+  box-sizing: border-box;
 }
 #p2{
   
   width:80%;
   padding:30px 10px 0px 10px;    
-  
-  
+  box-sizing: border-box;
 }
+  
+
 #p3{
  
   width:80%;
   padding: 30px 10px 0px 10px;    
-  
- 
+  box-sizing: border-box;
 }
+ 
+
 
 
 section {
   
   background-color: aqua;
   margin-top:20px;
-  
+  box-sizing: border-box;
 }
+
 #S1{ 
   margin-left:20px;
   margin-right:10px;
