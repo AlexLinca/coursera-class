@@ -196,5 +196,11 @@ section {
 
     }
   }
+  @media (min-width: 768px) and (max-width: 991px){
+    #S1,#S2,#S3{
+    margin-bottom:20px;
+    
+    }
+  }
  
  
