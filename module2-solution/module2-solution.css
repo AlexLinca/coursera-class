@@ -8,13 +8,13 @@ body{
 }
 h1{color:turquoise;
 text-align:center ;
-font-size:3em;
+font-size :2em;
 margin-bottom:60px;
 }
 p{
   text-align:left ;
   color:black;
-  text-size-adjust:25% ;
+  font: size 0.25em;
   font-weight:bold;
   
  
