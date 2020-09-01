@@ -1,7 +1,7 @@
 body{
-margin-left:0;
-margin-right:0;
-  margin-bottom:1200px;
+margin-left:0!important;
+margin-right:0 !important;
+margin-bottom:1200px;
 }
 header{
   /* background-color: green; */
@@ -70,7 +70,7 @@ header{
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float:left;
    padding:20px;
-   margin:0;
+    margin:0;
     border: none;
     box-sizing: border-box;
     
@@ -140,7 +140,7 @@ header{
    float:left;
     
     padding:20px;
-   margin:0;
+    margin:0;
     border: none;
     box-sizing: border-box;
     
@@ -206,9 +206,9 @@ header{
 }
 @media (min-width: 200px) and (max-width: 768px) {
   .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
-    margin-left:10px;
+    margin-left:0px;
     padding:20px;
-   margin:0;
+    margin:0;
     border: none;
     box-sizing: border-box;
   }
@@ -221,8 +221,8 @@ header{
     margin-left: auto;
   }
   #fuck{
-    margin-left:10px;
-    margin-right:500px;
+    margin-left:none;
+    margin-right:none;
   }
   #red{
     width: 90%;
